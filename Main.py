@@ -1,4 +1,4 @@
-# Complete Guide to LLM Fine-tuning Methods
+"""# Complete Guide to LLM Fine-tuning Methods
 
 ## 📚 Table of Contents
 1. Full Fine-tuning
@@ -7,7 +7,7 @@
 4. Alignment Methods (RLHF, DPO)
 5. Domain Adaptation Methods
 6. Comparison & Selection Guide
-
+"""
 ---
 
 ## 1️⃣ Full Fine-tuning (Traditional Approach)
